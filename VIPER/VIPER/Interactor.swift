@@ -11,3 +11,12 @@ import Foundation
 // only have a ref to presenter
 // only job is to only get data
 // can be where api calls happen 
+
+
+protocol AnyInteractor {
+    <#requirements#>
+}
+
+class UserInteractor: AnyInteractor {
+    
+}

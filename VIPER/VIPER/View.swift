@@ -6,6 +6,15 @@
 //
 
 import Foundation
+import UIKit
 // View Controller
 // protocol
 // reference to a presenter
+
+protocol AnyView {
+    
+}
+
+class UserViewController: UIViewController, AnyView {
+    
+}
