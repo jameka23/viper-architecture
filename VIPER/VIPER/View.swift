@@ -6,3 +6,6 @@
 //
 
 import Foundation
+// View Controller
+// protocol
+// reference to a presenter

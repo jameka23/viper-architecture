@@ -6,3 +6,6 @@
 //
 
 import Foundation
+// router
+// object
+// entry point for our model
